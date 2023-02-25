@@ -10,9 +10,9 @@
 
 ## Módulo 2
 
-    -
+    - Validando com JS
 
-    []
-    []
-    []
-    []
+    [] Pattern e Regex
+    [] AddEventListener
+    [] invocando funções
+    []  Verificar CPF
