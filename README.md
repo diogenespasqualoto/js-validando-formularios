@@ -5,7 +5,7 @@
     - Validando com HTML
 
     [✔️] Tipos de input
-    [] Min-lenght e max-length
+    [✔️] Min-lenght e max-length
     [] Required
 
 ## Módulo 2
