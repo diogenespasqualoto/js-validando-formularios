@@ -4,7 +4,7 @@
 
     - Validando com HTML
 
-    [] Tipos de input
+    [✔️] Tipos de input
     [] Min-lenght e max-length
     [] Required
 
