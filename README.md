@@ -6,7 +6,7 @@
 
     [✔️] Tipos de input
     [✔️] Min-lenght e max-length
-    [] Required
+    [✔️] Required
 
 ## Módulo 2
 
