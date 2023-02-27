@@ -37,4 +37,4 @@
 
     [✔️] Validity State
     [✔️] Mensagens customizadas
-    [] Imprimindo mensagens 
+    [✔️] Imprimindo mensagens 
