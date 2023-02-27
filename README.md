@@ -38,3 +38,4 @@
     [✔️] Validity State
     [✔️] Mensagens customizadas
     [✔️] Imprimindo mensagens 
+    [✔️] localStorage
