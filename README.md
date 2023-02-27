@@ -31,3 +31,10 @@
     [✔️] CPF: primeiro dígito
     [✔️] CPF: segundo dígito
     [✔️] Validação idade
+## Módulo 4
+
+    - Comunicando ao usuário
+
+    [] Validity State
+    [] Mensagens customizadas
+    [] Imprimindo mensagens 
