@@ -12,7 +12,7 @@
 
     - Validando com JS
 
-    [] Pattern e Regex
+    [✔️] Pattern e Regex
     [] AddEventListener
     [] invocando funções
     []  Verificar CPF
