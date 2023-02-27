@@ -39,3 +39,11 @@
     [✔️] Mensagens customizadas
     [✔️] Imprimindo mensagens 
     [✔️] localStorage
+
+     ## Módulo 5
+
+    -Capturando fotos
+
+    [] Iniciar câmera 
+    [] Captura
+    [] Salvar foto
