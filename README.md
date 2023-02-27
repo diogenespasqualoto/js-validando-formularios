@@ -30,4 +30,4 @@
 
     [✔️] CPF: primeiro dígito
     [✔️] CPF: segundo dígito
-    [] Validação idade
+    [✔️] Validação idade
