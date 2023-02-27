@@ -36,5 +36,5 @@
     - Comunicando ao usuário
 
     [✔️] Validity State
-    [] Mensagens customizadas
+    [✔️] Mensagens customizadas
     [] Imprimindo mensagens 
