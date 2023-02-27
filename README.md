@@ -28,6 +28,6 @@
 
     - Desenvolvendo validações
 
-    [] CPF: primeiro dígito
-    [] CPF: segundo dígito
+    [✔️] CPF: primeiro dígito
+    [✔️] CPF: segundo dígito
     [] Validação idade
