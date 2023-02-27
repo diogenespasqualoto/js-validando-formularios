@@ -6,7 +6,7 @@ if [ -z "$1" ]
     commit_message="$1"
 fi
 
-# Adicionar e fazer o commit das alterações
+# Adicionar e faz commit das alterações
 git add .
 git commit -m "$commit_message"
 
