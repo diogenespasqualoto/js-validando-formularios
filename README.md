@@ -14,5 +14,4 @@
 
     [✔️] Pattern e Regex
     [✔️] AddEventListener
-    [] invocando funções
-    []  Verificar CPF
+    [✔️]  Verificar CPF
