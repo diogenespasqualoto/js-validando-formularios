@@ -15,3 +15,19 @@
     [✔️] Pattern e Regex
     [✔️] AddEventListener
     [✔️]  Verificar CPF
+
+## Módulo 2
+
+    - Validando com JS
+
+    [✔️] Pattern e Regex
+    [✔️] AddEventListener
+    [✔️]  Verificar CPF
+
+## Módulo 3
+
+    - Desenvolvendo validações
+
+    [] CPF: primeiro dígito
+    [] CPF: segundo dígito
+    [] Validação idade
