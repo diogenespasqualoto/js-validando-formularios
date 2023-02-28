@@ -45,5 +45,5 @@
     -Capturando fotos
 
     [✔️] Iniciar câmera 
-    [] Captura
+    [✔️] Captura
     [] Salvar foto
